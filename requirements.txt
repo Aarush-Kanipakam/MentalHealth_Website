@@ -21,7 +21,6 @@ datasets
 # System utilities  
 logging  
 uuid  
-pickle  
 datetime  
 
 # Miscellaneous  
