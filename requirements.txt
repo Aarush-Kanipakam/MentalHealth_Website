@@ -1,0 +1,34 @@
+# Web framework  
+flask  
+authlib  
+requests  
+gunicorn  
+
+# Google AI & authentication  
+google-generativeai  
+
+# Database (Supabase)  
+supabase  
+
+# Machine learning & deep learning  
+tensorflow  
+torch  
+numpy  
+pandas  
+transformers  
+datasets  
+
+# System utilities  
+logging  
+uuid  
+pickle  
+datetime  
+
+# Miscellaneous  
+difflib  
+re  
+itertools  
+argparse  
+subprocess  
+tempfile  
+json  
